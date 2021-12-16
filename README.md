@@ -1,7 +1,6 @@
-# QR Code Generator for Posts/Pages
+# PDF Links
 
-This plugin generates QR Codes automatically after you publish a Post/Page and it is visible in the Admin area.  
-This QR Code links directly to the Post/Page you have just created.
+This plugin adds a section in the product page where you can add PDF links in Booster's Custom Tabs.
 
 No need to set anything!
 
